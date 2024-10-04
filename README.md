@@ -1,3 +1,5 @@
+THIS PROJECT MOVED TO ORGANIZATION [pkimgr](https://github.com/pkimgr)
+
 # rust Pkimgr
 
 Simple PKI manager CLI.
